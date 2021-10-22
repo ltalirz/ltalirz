@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find out what I do and how to reach me on [ltalirz.github.io](ltalirz.github.io).
+Find out what I do and how to reach me on [ltalirz.github.io](https://ltalirz.github.io).
 
 <!--
 **ltalirz/ltalirz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
